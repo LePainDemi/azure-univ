@@ -3,14 +3,11 @@ const https = require('https');
 const unplashApi = 'https://source.unsplash.com/1600x900?dream';
 const quotes = [
   'Wherever you go, no matter what the weather, always bring your own sunshine.',
-  'You\’re awesome.',
   'Happiness is the only thing that multiplies when you share it.',
-  'It always seems impossible until it is done.',
   'Let your unique positive energy inspire confidence in others.',
-  'The best is yet to come.',
   'You\'re capable of more than you can even dream.',
   'You deserve the best.',
-  'Keep going, you\'re doing well.',
+  'Si le savoir est une arme, eh bah nique ta mère',
   'Stay positive; stay hopeful'
 ];
 
